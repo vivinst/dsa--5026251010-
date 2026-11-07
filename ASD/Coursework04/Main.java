@@ -1,3 +1,5 @@
+package Coursework04;
+
 /**
  * ES234317 - Algorithms and Data Structures
  * Gasal | 2026-2027
@@ -143,3 +145,4 @@ public class Main {
         System.out.println(queue);
     }
 }
+

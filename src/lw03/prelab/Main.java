@@ -8,7 +8,7 @@ public class Main {
 
         while (sc.hasNextLine()) {
             String instruction = sc.nextLine();
-            String[] song = instruction.split(" ", 3);
+            String[] song = instruction.split(" ", 3); 
 
             if(song[0].equals("ADD")) {
                 playlist.add(song[1]);
